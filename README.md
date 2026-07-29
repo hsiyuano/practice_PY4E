@@ -3,5 +3,6 @@
 - if: break, continue
 - build a dunction
 - split(), strip() function
-- difference between list = [] and dictionary = {}
+- difference between list = [] dictionary = {} and tuple = ()
+
 
